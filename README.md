@@ -13,7 +13,7 @@
 - [Test](#test)
 - [Questions](#questions)
 ## Installation
- The App is Deployed at : https://rod0352.github.io/Note-Taker/ , When cloning the repo however run (npm i) to install dependencies required to run the App on Localhost:3001
+ The App is Deployed at : https://glacial-spire-91877.herokuapp.com/ , When cloning the repo however run (npm i) to install dependencies required to run the App on Localhost:3001
 ## Usage
  Give your Notes a Title and description, then save or delete them with the Save or Delete button
 ## License
